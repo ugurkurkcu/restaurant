@@ -1,6 +1,6 @@
 <h1> Restaurant </h1>
 
-Basit ama uygulama gercek hayatta kullanilabilir bir restorant sitesi calismasi
+Basit ama gercek hayatta kullanilabilir bir restoran sitesi calismasi
 
 <h2> Kullanilan Teknolojiler </h2>
 
